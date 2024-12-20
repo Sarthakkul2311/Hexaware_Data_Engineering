@@ -1,0 +1,5 @@
+lis = [10,20,30,40]
+
+final_list = list((map(lambda x:x*2, lis)))
+
+print(final_list)
